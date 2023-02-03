@@ -1,0 +1,15 @@
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\bin\Debug\net6.0\APIAutos.Data.deps.json
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\bin\Debug\net6.0\APIAutos.Data.dll
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\bin\Debug\net6.0\APIAutos.Data.pdb
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\bin\Debug\net6.0\APIAutos.Model.dll
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\bin\Debug\net6.0\APIAutos.Model.pdb
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.csproj.AssemblyReference.cache
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.AssemblyInfoInputs.cache
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.AssemblyInfo.cs
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.csproj.CoreCompileInputs.cache
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.csproj.CopyComplete
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.dll
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\refint\APIAutos.Data.dll
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\APIAutos.Data.pdb
+D:\Matias\BackUp Cursadas + apps\.net bootcamp\APIAutos\APIAutos.Data\obj\Debug\net6.0\ref\APIAutos.Data.dll
